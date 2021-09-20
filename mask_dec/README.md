@@ -5,6 +5,12 @@ The app can be visited at https://maskcurr.herokuapp.com/
 
 <h2>Screenshots of the webapp:</h2>
 
+![alt text](https://github.com/usmanbinkhalid/Face_Mask_Detection/blob/main/mask_dec/Pics/Capture3.PNG)
+
+![alt text](https://github.com/usmanbinkhalid/Face_Mask_Detection/blob/main/mask_dec/Pics/after.PNG)
+
+![alt text](https://github.com/usmanbinkhalid/Face_Mask_Detection/blob/main/mask_dec/Pics/Capture2.PNG)
+
 <h2>Flowchart</h2>
 
 <h2>Steps to run</h2>
