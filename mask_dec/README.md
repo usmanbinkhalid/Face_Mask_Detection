@@ -1,17 +1,16 @@
-# facial-emotion-detection-webapp
-This is facial detection webapp created using keras and flask.
+# Face-Mask Detection Webapp
+This is a mask detection webapp created using keras and flask.
 
-you can also run this code on kaggle
-note book link : https://www.kaggle.com/programminghut/facial-detection
+The app can be visited at https://maskcurr.herokuapp.com/
 
-here is a video explaination :
-https://youtu.be/q2hdXLPN8JQ
+<h2>Screenshots of the webapp:</h2>
 
-<h1>Steps to run</h1>
- 1: you can use facial_detection.py to create the model also it includes the prediction cells also.
+<h2>Flowchart</h2>
 
-2: you can run using ipynb too.
-
-3: run using kaggle too.
-
-If you think this is useful support me giving star.
+<h2>Steps to run</h2>
+ 1: You can use the app.py to create a flask web app and launch it.<br>
+ 2: You will be redirected to a webpage which you will be asked to input a photo of any person wearing or not wearing a mask.<br>
+ 3: It will ask you to upload a photo and then you have to click upload.<br>
+ 4: Once the photo is uploaded, whether the subject is wearing a mask or not will be displayed on the screen with a message.<br>
+ 
+ 
