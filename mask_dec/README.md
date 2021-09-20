@@ -13,6 +13,8 @@ The app can be visited at https://maskcurr.herokuapp.com/
 
 <h2>Flowchart</h2>
 
+![alt text](https://github.com/usmanbinkhalid/Face_Mask_Detection/blob/main/mask_dec/Pics/Flowchart_Usman.jpeg)
+
 <h2>Steps to run</h2>
  1: You can use the app.py to create a flask web app and launch it.<br>
  2: You will be redirected to a webpage which you will be asked to input a photo of any person wearing or not wearing a mask.<br>
