@@ -7,7 +7,7 @@ The app can be visited at https://maskcurr.herokuapp.com/
 
 ![alt text](https://github.com/usmanbinkhalid/Face_Mask_Detection/blob/main/mask_dec/Pics/Capture3.PNG)
 
-![alt text](https://github.com/usmanbinkhalid/Face_Mask_Detection/blob/main/mask_dec/Pics/after.PNG)
+![alt text](https://github.com/usmanbinkhalid/Face_Mask_Detection/blob/main/mask_dec/Pics/after.jpg)
 
 ![alt text](https://github.com/usmanbinkhalid/Face_Mask_Detection/blob/main/mask_dec/Pics/Capture2.PNG)
 
